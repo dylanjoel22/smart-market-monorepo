@@ -1,0 +1,17 @@
+# IDEs
+.vscode/
+.idea/
+
+# Frontend (Vite/Node)
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python/Django
+venv/
+.venv/
+__pycache__/
+.env
+db.sqlite3
+*.log
